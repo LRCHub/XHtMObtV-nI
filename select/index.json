@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "crescendo (Version 2022)",
+  "base_artist": "fripSide",
+  "createdAt": "2026-01-02T10:08:53.399233Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crescendo",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/01_Crescendo_Little_Boots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Crescendo",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/02_Crescendo_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Crescendo E Cercando",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/03_Crescendo_E_Cercando_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "In Crescendo",
+      "artist": "Kingcrow",
+      "has_synced": false,
+      "path": "select/04_In_Crescendo_Kingcrow.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Insanity's Crescendo",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/05_Insanity's_Crescendo_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waltzing off the Face of the Earth (I. Crescendo)",
+      "artist": "Enter Shikari",
+      "has_synced": true,
+      "path": "select/06_Waltzing_off_the_Face_of_the_Earth_(I._Crescendo)_Enter_Shikari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Crescendo of Passion Bleeding",
+      "artist": "Cradle of Filth",
+      "has_synced": false,
+      "path": "select/07_A_Crescendo_of_Passion_Bleeding_Cradle_of_Filth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Christmas Song (Chestnuts Roasting On An Open Fire) - Live At The Crescendo / 1955",
+      "artist": "Mel Tormé",
+      "has_synced": false,
+      "path": "select/08_The_Christmas_Song_(Chestnuts_Roasting_On_An_Open_Fire)_-_Live_At_The_Crescendo__Mel_Tormé.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Christmas Song (Live At The Crescendo Club, Hollywood, CA _ December 15, 1954)",
+      "artist": "Mel Tormé",
+      "has_synced": false,
+      "path": "select/09_The_Christmas_Song_(Live_At_The_Crescendo_Club,_Hollywood,_CA___December_15,_195_Mel_Tormé.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dreamland Crescendo",
+      "artist": "Back to Earth",
+      "has_synced": false,
+      "path": "select/10_Dreamland_Crescendo_Back_to_Earth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Crescendo (feat. MYLK)",
+      "artist": "Muzzy",
+      "has_synced": true,
+      "path": "select/11_Crescendo_(feat._MYLK)_Muzzy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Return to the Moon (Political Song for Didi Bloome to Sing, with Crescendo)",
+      "artist": "EL VY",
+      "has_synced": true,
+      "path": "select/12_Return_to_the_Moon_(Political_Song_for_Didi_Bloome_to_Sing,_with_Crescendo)_EL_VY.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Laughter Crescendo",
+      "artist": "Bassnectar",
+      "has_synced": false,
+      "path": "select/13_Laughter_Crescendo_Bassnectar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Crescendo",
+      "artist": "fripSide",
+      "has_synced": false,
+      "path": "select/pl_01_Crescendo_fripSide.txt"
+    }
+  ]
+}
